@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+}
+
+img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+#arrow {
+    cursor: pointer; /* Cambia el cursor al pasar sobre la imagen para indicar que es clickeable */
+}
+
+.error-message {
+    color: red;
+    margin-top: 10px; /* Ajusta el margen según sea necesario */
+  }
